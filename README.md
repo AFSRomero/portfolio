@@ -1,2 +1,2 @@
 # portfolio
-Single-page developer portfolio — black terminal theme with binary rain
+Single-page developer portfolio — soft sage theme with a clean, editorial layout.
